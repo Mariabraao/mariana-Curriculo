@@ -7,9 +7,9 @@
         <img src="eu.jpg" width="300"/>
     </p>
        <h1 style="text-align:center;"> Mariana Abraão</h1>
- <hr width="25%"/>
+ <hr/>
        <h5 style="text-align:center;">Design, Pintura e Artes Visuais</h5>
-<hr width="50%"/>
+<hr/>
 <h5 style="text-align: center;">marianabarbosaabraao@gmail.com<br/>@mariana_abraao<br/>(+55)11 96747-0206</h5>
 <h5 style="text-align: center;">Pintora de "live art" e desenhista, trabalhando<br/>como <i>freelancer</i> no momento, mas sempre em busca de<br/>mais experiências e conhecimento profissional.
     <br/>Cursando Design na Universidade Presbiteriana Mackenzie e 
